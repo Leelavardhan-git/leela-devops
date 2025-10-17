@@ -1,7 +1,5 @@
 # Hi, I'm Leela Vardhan 👋
 
-![Profile Banner](./banner.png)
-
 **AWS DevOps Engineer | Terraform · Kubernetes · CI/CD · Python**
 
 ---
@@ -11,7 +9,7 @@
 * 🔧 3 years building scalable infra on AWS
 * 🧩 Focus: Infrastructure as Code, CI/CD automation, containers, monitoring
 * 🛠️ Tools: Terraform, AWS (EC2, EKS, Lambda), Docker, GitHub Actions, Prometheus
-* 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/leela-vardhan-76600b1b2), [mleelavardhan@gmail.com](mailto:mleelavardhan@gmail.com)
+* 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/leela-vardhan-76600b1b2)(mailto:mleelavardhan@gmail.com)
 
 ---
 
